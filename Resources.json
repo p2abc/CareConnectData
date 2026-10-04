@@ -1,0 +1,134 @@
+[
+  {
+    "id": "A1B2C3D4-0001-4000-8000-000000000001",
+    "name": "Frisco Family Services Food Pantry",
+    "category": "Food",
+    "address": "9085 Dogwood St, Frisco, TX 75033",
+    "phoneNumber": "(972) 335-9495",
+    "operatingHours": "Mon, Tue, Thu, Fri: 9:00 AM - 5:00 PM | Wed: 9:00 AM - 6:00 PM",
+    "description": "Full-service food pantry providing fresh produce, staples, meats, dairy, infant formula, and household hygiene packages to families in crisis.",
+    "latitude": 33.1534,
+    "longitude": -96.8285
+  },
+  {
+    "id": "A1B2C3D4-0002-4000-8000-000000000002",
+    "name": "Grace Avenue Community Table",
+    "category": "Food",
+    "address": "3521 Main St, Frisco, TX 75034",
+    "phoneNumber": "(972) 335-2882",
+    "operatingHours": "Tuesdays & Thursdays: 11:30 AM - 1:00 PM",
+    "description": "Free, warm, nutritious dine-in community meals served with hospitality and dignity. No ID or verification required. Takeaway snack packs available.",
+    "latitude": 33.1509,
+    "longitude": -96.8095
+  },
+  {
+    "id": "A1B2C3D4-0003-4000-8000-000000000003",
+    "name": "North Texas Food Bank Mobile Drop (Frisco)",
+    "category": "Food",
+    "address": "6610 Dirt Track Rd, Frisco, TX 75034",
+    "phoneNumber": "(214) 330-1396",
+    "operatingHours": "2nd & 4th Saturday: 9:00 AM - 11:00 AM",
+    "description": "Bulk pantry distribution box handoff. Provides 40-50 lbs of nutritious shelf-stable items, fresh produce, and milk boxes directly to vehicles or walk-ups.",
+    "latitude": 33.1415,
+    "longitude": -96.8420
+  },
+  {
+    "id": "A1B2C3D4-0004-4000-8000-000000000004",
+    "name": "Frisco Public Library Hydration Station",
+    "category": "Water",
+    "address": "8000 Dallas Pkwy, Frisco, TX 75034",
+    "phoneNumber": "(972) 292-5669",
+    "operatingHours": "Mon-Thu: 9:00 AM - 9:00 PM | Fri-Sat: 9:00 AM - 6:00 PM | Sun: 1:00 PM - 6:00 PM",
+    "description": "Chilled filtered bottle refilling stations on all levels. Serves as an official municipal cooling center with public restrooms, charging stations, and Wi-Fi.",
+    "latitude": 33.1601,
+    "longitude": -96.8290
+  },
+  {
+    "id": "A1B2C3D4-0005-4000-8000-000000000005",
+    "name": "Frisco Commons Water Refill Point",
+    "category": "Water",
+    "address": "8000 McKinney Rd, Frisco, TX 75034",
+    "phoneNumber": "(972) 292-6500",
+    "operatingHours": "Daily: 6:00 AM - 10:00 PM",
+    "description": "Public outdoor drinking water fountains and bottle filling points located under shaded pavilions with accessible emergency call posts.",
+    "latitude": 33.1562,
+    "longitude": -96.8055
+  },
+  {
+    "id": "A1B2C3D4-0006-4000-8000-000000000006",
+    "name": "The Grove Senior & Community Respite",
+    "category": "Water",
+    "address": "6670 First St, Frisco, TX 75034",
+    "phoneNumber": "(972) 292-6550",
+    "operatingHours": "Mon-Fri: 8:00 AM - 5:00 PM",
+    "description": "Designated daytime cooling and hydration center with complimentary bottled water, resting areas, and social services navigator assistance.",
+    "latitude": 33.1485,
+    "longitude": -96.8210
+  },
+  {
+    "id": "A1B2C3D4-0007-4000-8000-000000000007",
+    "name": "Frisco Resale & Voucher Assistance",
+    "category": "Clothing",
+    "address": "6512 Main St, Frisco, TX 75034",
+    "phoneNumber": "(972) 712-7837",
+    "operatingHours": "Mon-Sat: 10:00 AM - 6:00 PM",
+    "description": "Voucher-based emergency clothing distribution providing work apparel, winter coats, new underwear, children's clothes, and sturdy shoes for individuals in crisis.",
+    "latitude": 33.1504,
+    "longitude": -96.8164
+  },
+  {
+    "id": "A1B2C3D4-0008-4000-8000-000000000008",
+    "name": "Cornerstone Community Closet Frisco",
+    "category": "Clothing",
+    "address": "7074 Lebanon Rd, Frisco, TX 75034",
+    "phoneNumber": "(972) 712-4300",
+    "operatingHours": "Wed: 10:00 AM - 2:00 PM | Sat: 9:00 AM - 12:00 PM",
+    "description": "Clean seasonal apparel, school clothes for youth, infant supplies, clean socks, and emergency blankets distributed without cost.",
+    "latitude": 33.1198,
+    "longitude": -96.8260
+  },
+  {
+    "id": "A1B2C3D4-0009-4000-8000-000000000009",
+    "name": "Treasured Vessels Emergency Wardrobe",
+    "category": "Clothing",
+    "address": "8700 Stonebrook Pkwy, Frisco, TX 75034",
+    "phoneNumber": "(469) 294-9005",
+    "operatingHours": "Mon-Fri: 10:00 AM - 3:00 PM (Emergency Walk-Ins)",
+    "description": "Emergency dignity packs, essential apparel sets, sneakers, and personal hygiene kits for at-risk youth and adults in immediate crisis or fleeing hostile environments.",
+    "latitude": 33.1362,
+    "longitude": -96.8375
+  },
+  {
+    "id": "A1B2C3D4-0010-4000-8000-000000000010",
+    "name": "Frisco Family Services Transitional Office",
+    "category": "Shelter",
+    "address": "8780 3rd St, Frisco, TX 75034",
+    "phoneNumber": "(972) 335-9495",
+    "operatingHours": "Mon-Fri: 8:30 AM - 5:00 PM (24/7 on-call dispatch)",
+    "description": "Emergency housing intake, rapid re-housing navigation, temporary emergency motel vouchers for families with children during severe weather events.",
+    "latitude": 33.1512,
+    "longitude": -96.8242
+  },
+  {
+    "id": "A1B2C3D4-0011-4000-8000-000000000011",
+    "name": "Collin County Homeless Coalition Intake",
+    "category": "Shelter",
+    "address": "8600 Preston Rd, Frisco, TX 75034",
+    "phoneNumber": "(972) 547-4400",
+    "operatingHours": "Mon-Fri: 9:00 AM - 4:30 PM",
+    "description": "Coordinated Entry point for regional emergency shelter beds, severe freeze warming relief, and case-managed supportive housing referrals.",
+    "latitude": 33.1540,
+    "longitude": -96.8040
+  },
+  {
+    "id": "A1B2C3D4-0012-4000-8000-000000000012",
+    "name": "Hope's Door New Beginning Safe Shelter",
+    "category": "Shelter",
+    "address": "7500 Stonebrook Pkwy, Frisco, TX 75034",
+    "phoneNumber": "(972) 276-0057",
+    "operatingHours": "24 Hours / 7 Days a Week Emergency Intake",
+    "description": "Confidential emergency shelter, 24/7 crisis intervention, and safe refuge for individuals and families escaping domestic abuse, intimate partner violence, or trafficking.",
+    "latitude": 33.1380,
+    "longitude": -96.8195
+  }
+]
